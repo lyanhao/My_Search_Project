@@ -33,13 +33,13 @@ NTFS文件系统。
 
 **整体流程：**
 
-<img src="C:\Users\10943\AppData\Roaming\Typora\typora-user-images\image-20200309222535782.png" alt="image-20200309222535782" style="zoom: 50%;" />
+<img src="C:\Users\10943\AppData\Roaming\Typora\typora-user-images\image-20200309222535782.png" />
 
 
 
 **文件对比流程：**
 
-<img src="C:\Users\10943\AppData\Roaming\Typora\typora-user-images\image-20200309222603652.png" alt="image-20200309222603652" style="zoom:50%;" />
+<img src="C:\Users\10943\AppData\Roaming\Typora\typora-user-images\image-20200309222603652.png" />
 
 
 
@@ -159,13 +159,13 @@ NTFS文件系统。
 
 #### 运行后的界面：
 
-<img src="C:\Users\10943\Desktop\blog\项目\初始界面.png" style="zoom: 80%;" />
+<img src="C:\Users\10943\Desktop\blog\项目\初始界面.png"/>
 
 
 
 #### 选择目录后：
 
-<img src="C:\Users\10943\Desktop\blog\项目\扫描结果.png" style="zoom:80%;" />
+<img src="C:\Users\10943\Desktop\blog\项目\扫描结果.png"/>
 
 
 
