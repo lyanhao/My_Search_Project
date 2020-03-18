@@ -33,13 +33,13 @@ NTFS文件系统。
 
 **整体流程：**
 
-![image](http://github.com/lyanhao/My_Search_Project/raw/master/img/整体流程.png)
+![image](https://github.com/lyanhao/My_Search_Project/blob/master/img/%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B.png)
 
 
 
 **文件对比流程：**
 
-![image](http://github.com/lyanhao/My_Search_Project/raw/master/img/文件比对流程.png)
+![image](https://github.com/lyanhao/My_Search_Project/blob/master/img/%E6%96%87%E4%BB%B6%E6%AF%94%E5%AF%B9%E6%B5%81%E7%A8%8B.png)
 
 
 
@@ -159,13 +159,13 @@ NTFS文件系统。
 
 #### 运行后的界面：
 
-![image](http://github.com/lyanhao/My_Search_Project/raw/master/img/初始界面.png)
+![image](https://github.com/lyanhao/My_Search_Project/blob/master/img/%E5%88%9D%E5%A7%8B%E7%95%8C%E9%9D%A2.png)
 
 
 
 #### 选择目录后：
 
-![image](http://github.com/lyanhao/My_Search_Project/raw/master/img/扫描结果.png)
+![image](https://github.com/lyanhao/My_Search_Project/blob/master/img/%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)
 
 
 
